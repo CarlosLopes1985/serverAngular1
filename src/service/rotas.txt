@@ -1,0 +1,4 @@
+listar = http://localhost:8080/ServAngu/json/pessoa/listar
+gravar =http://localhost:8080/ServAngu/json/pessoa/gravar/gustavo/m/22
+buscarCodigo=http://localhost:8080/ServAngu/json/pessoa/buscarCodigo/3
+excluir = http://localhost:8080/ServAngu/json/pessoa/excluir/8
